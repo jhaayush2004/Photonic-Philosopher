@@ -1,0 +1,10 @@
+numpy
+pandas
+os
+tensorflow
+tqdm
+keras
+warnings
+matplotlib
+seaborn
+textwrap
